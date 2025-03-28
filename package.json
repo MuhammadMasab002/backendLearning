@@ -1,0 +1,19 @@
+{
+  "name": "backendlearning",
+  "version": "1.0.0",
+  "description": "backend series only for learning purpose",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "backend",
+    "learning"
+  ],
+  "author": "masab ashraf",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
